@@ -1,0 +1,2 @@
+amplify==0.4.1
+python-dotenv==0.15.0
